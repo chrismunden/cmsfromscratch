@@ -1,0 +1,11 @@
+1) Extracted everything from Zip except _samples.
+2) Deleted non-PHP files, plus HTML info. (>2.9MB!)
+3) Deleted non-PHP connectors (editor/filemanager) > 2.67
+4) Deleted editor/_source > 2.10MB & 300 files
+5) Deleted editor/skins except default > 2.06MB & 278 files
+
+6) Set up connectors/php/config.php (complex)
+
+
+Notes:
+ - Language options are over 1MB, but not too many files.
