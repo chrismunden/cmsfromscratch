@@ -1,12 +1,5 @@
-= A brief Introduction to CMS from Scratch =
+==A brief introduction to CMS from Scratch==
 
-== Introduction ==
+CMS from Scratch is a small footprint content management system originally developed for in house web production at Scratchmedia Ltd, UK.
 
-CMSfromScratch is a lightweight (3MB) highly extensible content management system that does not rely upon databases, but instead uses flat text files (encrypted) for data storage. CMS from Scratch uses a web based interface for both the designer and the client, enabling them to create and edit pages, upload content and easily develop and integrate new functionality. CMS from Scratch is especially good at converting existing static HTML only sites into dynamic, content managed sites at great speed
-
-
-== Details ==
-  * Written in PHP and Javascript
-  * Small Footprint
-  * Intuitive interface
-  * No database required
+It is designed for simplicity, extensibility and ease of use for the customer who will be editing the content.
