@@ -1,7 +1,7 @@
 #summary Questions and Answers on basic use of Sets & Set templates in CMS from Scratch
 #labels sets,settemplates,Phase-Implementation
 
-= Questions and Answers for basic Set & Set Template issues in CMS from Scratch =
+= Q&A: Sets basics =
 
 *Q: How can I change the column widths in the set editor? I have lots of columns, and the page is stretching very wide.*
 
