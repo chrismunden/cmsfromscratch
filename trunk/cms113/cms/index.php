@@ -77,9 +77,9 @@
 	</div>
 	<div id="minorLinks">
 		<?
+			echo '<a href="http://cmsfromscratch.com/donate.php" target="_blank">Donate</a>' ;
 			if ($_SESSION['loginStatus'] > 1) {
 				echo '<a href="http://cmsfromscratch.com/user-guide/" target="_blank">Online help</a>' ;
-				echo '<a href="cms-from-scratch-end-user-license-agreement.pdf" target="_blank">Licence</a>' ;
 			}
 		?>
 		<a href="logout.php"><? echo translate('Log out') ; ?></a>
