@@ -144,7 +144,7 @@ You also have 3 small links at the top right of the page panel. These do the fol
   <li>Repeated block 1:  The Set will render all the code entered here, replacing any names  found in [square brackets] with the actual values the Editor has  entered into the Set. Here, it will replace [link] with whatever value  is in the "link" column defined on the left, and [listitem] with the  value from the "listitem" column.</li>
   <li>Repeated block 2:  If any of the values (i.e. [link] or [listitem]) in the block above  were not found (e.g. the Editor has entered text for the list item, but  no link), CMS from Scratch will try to use this alternative block. In  the case of no link being provided, this code just tells it to add an  <li> with the text alone.</li>
   <li>Repeated block 3:  (Not used here) There are occasions where you may want a third failover  option, for complex Set definitions. You have a third option here in  the smaller box. If not all the items in any of the 3 boxes are found,  the Set row will be skipped.</li>
-  <li>After: The markup to write after the repeated blocks.</li></ol>
+  <li>After: The markup to write after the repeated blocks.</li>
 <div><img src="http://cmsfromscratch.com/cms/cmsimages/set-template-rendering-rules.gif" alt="" width="518" border="1" height="498" /></div>
 <h3>Editing Sets</h3>
 <p>Once you have defined one or more Set Templates, you will be able to  create new Set Includes, in the same way as you would create a Text or  HTML include, using the grid-cube icon.</p>
