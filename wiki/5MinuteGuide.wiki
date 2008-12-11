@@ -1,3 +1,5 @@
+#summary 5-Minute User Guide
+#labels Featured
   <p>With CMS from Scratch you  really can turn a flat HTML page into one that your client can update  in minutes - with no database or programming knowledge!
   </p>
   <p>This page gives you everything you need to get going.</p>
